@@ -2,7 +2,7 @@
  * Classes and Inheritance
  * Code Example from http://www.es6fiddle.net/
  */
-
+//Changing Done by sahil
 class Rectangle{
 	constructor(length,breadth){
 		this.name='rectangle';
