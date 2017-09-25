@@ -2,7 +2,7 @@
  * Classes and Inheritance
  * Code Example from http://www.es6fiddle.net/
  */
-//changing done by sandeep
+//changing done by sandeep ohdar
 
 class Rectangle{
 	constructor(length,breadth){
