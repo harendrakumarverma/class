@@ -2,7 +2,7 @@
  * Classes and Inheritance
  * Code Example from http://www.es6fiddle.net/
  */
-//Changing Done by sahil
+//Changing Done by sahil dhall
 //changing done by sandeep
 
 class Rectangle{
