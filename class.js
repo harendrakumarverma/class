@@ -3,7 +3,7 @@
  * Code Example from http://www.es6fiddle.net/
  */
 //Changing Done by sahil dhall
-//changing done by sandeep
+//changing done by sandeep ohdar
 
 class Rectangle{
 	constructor(length,breadth){
